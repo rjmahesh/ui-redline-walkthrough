@@ -5,3 +5,4 @@ stills/
 *.mp4
 sprite.png
 sprite.json
+!examples/*.mp4
